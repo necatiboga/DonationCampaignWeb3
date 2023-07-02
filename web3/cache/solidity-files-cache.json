@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Necati\\Desktop\\crowdfunding\\web3\\contracts\\DonationCampaign.sol": {
+      "lastModificationDate": 1687490638107,
+      "contentHash": "ecd28f2055829be0e91fa1b097ba7943",
+      "sourceName": "contracts/DonationCampaign.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "DonationCampaign"
+      ]
+    }
+  }
+}
